@@ -1,0 +1,18 @@
+<div id="navbar-container">
+  <div id="navbar">
+    <div class="title-container">
+      <a id="nav-home" href="/">
+        <div class="nav-item">{{ site.title }}</div>
+      </a>
+    </div>
+    <div class="pages-container">
+      {% for page in site.pages %}
+        {% if page.category %}
+          <a href="{{ page.url | prepend: site.baseurl }}">
+            <div class="nav-item">{{ page.title }}</div>
+          </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</div>

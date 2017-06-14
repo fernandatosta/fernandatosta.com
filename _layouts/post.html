@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+    {% include meta.html %}
+    {% include analytics.html %}
+  </head>
+  <body>
+    {% include navbar.html %}
+    <div id="main-div">
+      {% if page.header %}
+        {% assign imgPath = site.baseurl | append: "/assets/posts/" | append: page.header %}
+        <div id="post-image-header" style="background-image: url('{{ imgPath }}');"></div>
+      {% endif %}
+      <div id="post">
+        <div class="post-title">{{ page.title }}</div>
+        <content>
+          {{ content }}
+          {% include swipebox.html %}
+        </content>
+      </div>
+    </div>
+  </body>
+</html>

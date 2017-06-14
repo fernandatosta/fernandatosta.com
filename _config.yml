@@ -1,0 +1,33 @@
+# Site
+title: Fernanda Tosta
+
+# URL
+url: http://fernandatosta.com
+baseurl: ''
+permalink: post/:title/
+
+# Build settings
+markdown: kramdown
+port: 4445
+
+include: ['_pages']
+exclude: [.git, .gitignore, .sass-cache, README.md, jekyllbuild]
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      cover: "/assets/site/cover.jpg"
+
+# Data
+analytics: ""
+social:
+  facebook: "fernandatosta"
+  twitter: "nandatosta"
+  instagram: "fernandatosta"
