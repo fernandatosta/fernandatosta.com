@@ -50,7 +50,7 @@ prose:
     - _pages/404.md
     - _pages/cursos.md
     - _pages/participacoes.md
-    - _pages/pojetos.md
+    - _pages/projetos.md
   metadata:
     _pages:
       - name: "layout"
@@ -100,3 +100,7 @@ prose:
           element: "text"
           label: "arquivos para serem incluidos no album de fotos"
           placeholder: "faz_"
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
