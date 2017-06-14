@@ -31,3 +31,72 @@ social:
   facebook: "fernandatosta"
   twitter: "nandatosta"
   instagram: "fernandatosta"
+
+# prose.io
+prose:
+  media: 'assets/posts'
+  ignore:
+    - .gitignore
+    - _config.yml
+    - _layouts
+    - _includes
+    - _sass
+    - css
+    - js
+    - CNAME
+    - assets/favicons
+    - assets/swipebox
+    - assets/site
+    - _pages/404.md
+    - _pages/cursos.md
+    - _pages/participacoes.md
+    - _pages/pojetos.md
+  metadata:
+    _pages:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "nome da página"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "escolha um url para essa página"
+          placeholder: "/url-da-pagina/"
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "nome da página"
+      - name: "description"
+        field:
+          element: "textarea"
+          label: "descrição curta do projeto que aparece nas listagens"
+      - name: "header"
+        field:
+          element: "text"
+          label: "imagem de capa para a página"
+          placeholder: "faz_00.jpg"
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "catgoria desse post (em qual listagem ele aparece no site)"
+          options:
+            - name: 'Curso'
+              value: 'curso'
+            - name: 'Projeto'
+              value: 'projeto'
+            - name: 'Participação'
+              value: 'participação'
+      - name: "swipebox"
+        field:
+          element: "text"
+          label: "arquivos para serem incluidos no album de fotos"
+          placeholder: "faz_"
