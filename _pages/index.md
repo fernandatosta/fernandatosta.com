@@ -17,4 +17,13 @@ I love to learn, and teach people with different backgrounds, ages and in differ
 
 I invite you to come and take a look anyway, take your time or come back later. Get in touch and say what you want to say. I like most people that are not afraid to show their feelings, so please don’t be shy or too formal.
 
-```social media here```
+<ul class="list-inline social-buttons">
+  {% for net in site.social %}
+    <li><a href="https://www.{{ net[0] }}.com/{{ net[1] }}/" target="_blank">
+      <i class="fa fa-{{ net[0] }}"></i>
+    </a></li>
+  {% endfor %}
+  <li><a href="mailto:oi@fernandatosta.com">
+    <i class="fa fa-envelope"></i>
+  </a></li>
+</ul>
