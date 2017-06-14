@@ -194,8 +194,8 @@ body {
   .post-list-item {
     display: -webkit-flex;
     display: flex;
-    -webkit-flex-wrap: wrap;
-    flex-wrap: wrap;
+    -webkit-flex-wrap: nowrap;
+    flex-wrap: nowrap;
     -webkit-flex-direction: column;
     flex-direction: column;
 
@@ -233,12 +233,6 @@ body {
       width: 66%;
       height: 300px;
     }
-
-    /*
-    img {
-      display: block;
-      width: 100%;
-    }*/
   }
 
   .post-title-container {
@@ -253,7 +247,7 @@ body {
 
     text-align: center;
 
-    padding: 2*$LIST-VERTICAL-SPACING 0;
+    padding: 2*$LIST-VERTICAL-SPACING $LIST-VERTICAL-SPACING;
 
     width: 100%;
     @include media-query(THREE) {
@@ -261,7 +255,7 @@ body {
     }
 
     background-color: $TEXT-BACKGROUND;
-    
+
     .post-description {
       border-top: 2px solid #000;
       padding-top: $LIST-VERTICAL-SPACING;
