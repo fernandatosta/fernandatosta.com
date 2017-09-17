@@ -1,6 +1,6 @@
 ---
 layout: list
 title: "Participações"
-category: participação
+category: participações
 permalink: /participacoes/
 ---
