@@ -1,5 +1,5 @@
 ---
-title: Casa Fora de Casa 4
+title: Mobiliário Urbano 
 description: "Oficina de Mobiliário Urbano Temporário"
 header: cfdc4_03.jpg
 categories: cursos
