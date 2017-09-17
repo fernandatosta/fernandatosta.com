@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: titulo
+title: Marcenaria para Surdos e Ouvintes
 categories:
   - pesquisa
 header: bullet-journal-05.jpeg
