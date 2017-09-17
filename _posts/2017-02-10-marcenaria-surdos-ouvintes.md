@@ -1,9 +1,12 @@
 ---
-title: Marcenaria para surdos e ouvintes
-description: "Educação Bilingue"
-header: cfdc1_00.jpg
-categories: pesquisa
-swipebox: cfdc1_
---- 
+published: true
+layout: post
+title: titulo
+categories:
+  - pesquisa
+header: bullet-journal-05.jpeg
+swipebox: bullet-journal-
+---
+## A New Post
 
-bla bla bla 
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
