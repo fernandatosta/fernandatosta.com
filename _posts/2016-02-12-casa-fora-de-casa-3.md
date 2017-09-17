@@ -2,7 +2,7 @@
 title: Casa Fora de Casa 3
 description: "Oficina de Mobiliário Urbano Temporário"
 header: cfdc3_01.jpg
-categories: curso
+categories: cursos
 swipebox: cfdc3_
 ---
 A Praça do Bacião possui 5 entradas distintas e não havia nenhuma sinalização que indicasse o espaço público com quadra de esporte que existe ali.
