@@ -1,7 +1,7 @@
 ---
 title: FestA! LudiCidades
 description: SESC Pinheiros
-header: sesc-improviso_01.jpg
+header: bullet-journal-05.jpeg 
 categories: participações
-swipebox: sesc-improviso_
+swipebox: bullet-journal-
 ---
