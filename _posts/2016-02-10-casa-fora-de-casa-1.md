@@ -2,7 +2,7 @@
 title: Casa Fora de Casa 1
 description: "Oficina de Mobiliário Urbano Temporário"
 header: cfdc1_00.jpg
-categories: curso
+categories: cursos
 swipebox: cfdc1_
 ---
 O projeto Casa Fora de Casa promoveu encontros de ocupação divididas por quatro praças do Setor Sul da cidade de Goiânia onde foram realizadas diversas ações criativas que discutiram urbanismo e a transformação da paisagem durante os meses de julho, agosto e setembro, em Goiânia.
