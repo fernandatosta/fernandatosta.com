@@ -1,12 +1,7 @@
 ---
-published: true
-layout: post
 title: FestA! LudiCidades
-categories:
-  - participacoes
-header: bullet-journal-05.jpeg
-swipebox: bullet-journal-
+description: SESC Pinheiros
+header: sesc-improviso_01.jpg
+categories: participações
+swipebox: sesc-improviso_
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
