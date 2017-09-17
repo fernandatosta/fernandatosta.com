@@ -1,12 +1,7 @@
 ---
-published: true
-layout: post
-title: Identidade e Mobiliário Urbano 
-categories:
-  - pesquisa
-header: bullet-journal-05.jpeg
-swipebox: bullet-journal-
+title: Identidade e o Mobiliário Urbano
+description: pesquisa...
+header: bullet-journal-05.jpeg 
+categories: pesquisa
+swipebox: bullet-journal- 
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
