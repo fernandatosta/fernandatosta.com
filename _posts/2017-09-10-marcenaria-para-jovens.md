@@ -1,12 +1,7 @@
 ---
-published: true
-layout: post
 title: Marcenaria para Jovens
-categories:
-  - curso
-header: bullet-journal-05.jpeg
-swipebox: bullet-journal-
+description: Instituto Tomie Ohtake
+header: n-design_01.jpg
+categories: cursos
+swipebox: n-design_
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
