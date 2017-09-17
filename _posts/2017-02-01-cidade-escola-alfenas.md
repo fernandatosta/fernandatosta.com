@@ -1,7 +1,7 @@
 ---
 title: Projeto Cidade Escola 
 description: Marcenaria para jovens e educadores - Alfenas-MG
-header: n-design_01.jpg
+header: bullet-journal-05.jpeg 
 categories: participações 
-swipebox: n-design_
+swipebox: bullet-journal-
 ---
