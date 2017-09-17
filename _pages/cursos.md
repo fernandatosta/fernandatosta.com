@@ -1,6 +1,6 @@
 ---
 layout: list
 title: Cursos
-category: curso
+category: cursos
 permalink: /cursos/
 ---
