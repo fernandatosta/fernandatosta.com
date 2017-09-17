@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Marcenaria para Jovens e Ouvintes
+title: Marcenaria para Jovens
 categories:
   - cursos
 header: bullet-journal-05.jpeg
