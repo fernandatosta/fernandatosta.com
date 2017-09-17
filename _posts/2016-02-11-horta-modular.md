@@ -1,7 +1,7 @@
 ---
 title: Horta Modular
 description: Curso Cultivar [en]caixa
-header: n-design_01.jpg
+header: bullet-journal-05.jpeg 
 categories: cursos
-swipebox: n-design_
+swipebox: bullet-journal-
 ---
