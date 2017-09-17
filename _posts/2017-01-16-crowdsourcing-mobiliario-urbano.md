@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Crowdsourcing e Mobilirio Urbano
+title: Crowdsourcing e Mobiliário Urbano
 categories:
   - pesquisa
 header: bullet-journal-05.jpeg
