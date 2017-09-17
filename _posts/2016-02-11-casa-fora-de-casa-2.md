@@ -2,7 +2,7 @@
 title: Casa Fora de Casa 2
 description: "Oficina de Mobiliário Urbano Temporário"
 header: cfdc2_03.jpg
-categories: curso
+categories: cursos
 swipebox: cfdc2_
 ---
 Construir espaço de descanso e encontro adequado ao uso dos acompanhantes, skatistas e outros esportes praticados na pista foi a proposta do projeto do mobiliário para a Praça do Martim Cererê.
