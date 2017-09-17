@@ -1,7 +1,7 @@
 ---
 title: Invenções da Mulher Moderna
 description: Marcenaria para mulheres
-header: n-design_01.jpg
+header: bullet-journal-05.jpeg 
 categories: participações
-swipebox: n-design_
+swipebox: bullet-journal-
 ---
