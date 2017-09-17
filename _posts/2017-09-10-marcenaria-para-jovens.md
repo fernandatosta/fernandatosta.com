@@ -3,7 +3,7 @@ published: true
 layout: post
 title: Marcenaria para Jovens
 categories:
-  - cursos
+  - curso
 header: bullet-journal-05.jpeg
 swipebox: bullet-journal-
 ---
