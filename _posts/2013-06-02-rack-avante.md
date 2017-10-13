@@ -1,7 +1,7 @@
 ---
 title: Rack Avante
 description: mobiliario residencial
-header: bullet-journal-05.jpeg 
+header: rack_00.jpeg 
 categories: projetos
-swipebox: bullet-journal- 
+swipebox: rack_ 
 ---
