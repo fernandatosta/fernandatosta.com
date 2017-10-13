@@ -1,7 +1,7 @@
 ---
 title: Painel de Organização
 description: Sesc Campinas
-header: bullet-journal-05.jpeg 
+header: painel_05.jpeg 
 categories: cursos
-swipebox: bullet-journal-
+swipebox: painel_
 ---
