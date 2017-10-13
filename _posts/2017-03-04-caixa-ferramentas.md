@@ -1,7 +1,7 @@
 ---
 title: Caixa de Ferramentas
 description: Mulheres na marcenaria
-header: bullet-journal-05.jpeg 
+header: cx-ferramenta_01.jpeg 
 categories: cursos
-swipebox: bullet-journal- 
+swipebox: cx-ferramenta_
 ---
