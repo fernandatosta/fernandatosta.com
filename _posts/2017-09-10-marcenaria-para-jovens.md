@@ -1,7 +1,7 @@
 ---
 title: Marcenaria para Jovens
 description: Instituto Tomie Ohtake
-header: bullet-journal-05.jpeg 
+header: curso-tomie_01.jpeg 
 categories: cursos
-swipebox: bullet-journal-
+swipebox: curso-tomie_
 ---
