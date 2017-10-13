@@ -1,7 +1,7 @@
 ---
 title: Nicho para livros 
 description: Mulheres na marcenaria
-header: bullet-journal-05.jpeg 
+header: nicho-livros_01.jpeg 
 categories: cursos
 swipebox: bullet-journal- 
 ---
