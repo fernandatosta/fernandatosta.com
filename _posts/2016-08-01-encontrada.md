@@ -2,6 +2,6 @@
 title: EncontrADA
 description: Oficina de Marcenaria
 header: encontrada_03.jpg
-categories: curso
+categories: participações
 swipebox: encontrada_
 ---

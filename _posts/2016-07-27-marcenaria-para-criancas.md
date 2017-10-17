@@ -1,7 +1,7 @@
 ---
-title: Escola Nuvem
+title: Marcenaria para crianças
 description: Oficina de férias
 header: nuvemcover.jpg
-categories: curso
+categories: cursos
 swipebox: nuvem_
 ---

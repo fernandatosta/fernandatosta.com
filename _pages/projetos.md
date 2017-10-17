@@ -1,6 +1,6 @@
 ---
 layout: list
 title: Projetos
-category: projeto
+category: projetos
 permalink: /projetos/
 ---

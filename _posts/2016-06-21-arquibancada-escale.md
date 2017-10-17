@@ -1,9 +1,9 @@
 ---
 published: true
 layout: post
-title: titulo
+title: Arquibancada Escale
 categories:
-  - projeto
+  - projetos
 header: bullet-journal-05.jpeg
 swipebox: bullet-journal-
 ---
