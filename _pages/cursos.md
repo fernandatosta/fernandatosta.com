@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Cursos
+title: Conversadeiras
 category: cursos
 permalink: /cursos/
 ---
